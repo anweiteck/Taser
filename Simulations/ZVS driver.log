@@ -1,0 +1,24 @@
+Circuit: * C:\Users\An Wei Teck\Documents\Dreams\EE\Projects\taser v2\Simulations\ZVS driver.asc
+
+.OP point found by inspection.
+
+max: MIN(i(l1))=-11.9175 FROM 0 TO 0.002
+
+
+Date: Mon Nov 29 20:36:08 2021
+Total elapsed time: 3.227 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 507624
+traniter = 507624
+tranpoints = 122218
+accept = 87242
+rejected = 34976
+matrix size = 26
+fillins = 28
+solver = Normal
+Matrix Compiler1: 3.83 KB object code size  1.2/0.3/[0.2]
+Matrix Compiler2: 2.79 KB object code size  0.2/0.3/[0.1]
+
